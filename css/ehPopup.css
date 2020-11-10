@@ -1,0 +1,41 @@
+.jquery-modal.blocker {
+    z-index: 10000;
+}
+
+.eh-alert-header {
+    padding-bottom: 5px;
+    text-align: center;
+    border-bottom: 1px solid #dedede;
+}
+.eh-alert-header img {
+    width: 75px;
+}
+
+.eh-alert-footer {
+    padding-top: 5px;
+    text-align: center;
+}
+
+.eh-alert-footer a {
+    display: inline-block;
+    padding: 8px 15px;
+    background: #2089d0;
+    color: #fff;
+    border-radius: 4px;
+    border: 0;
+    font-size: 13px;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+.eh-alert-footer a:hover,
+.eh-alert-footer a:active,
+.eh-alert-footer a:focus {
+    background: #136BA7;
+}
+
+.eh-alert-body {
+    padding: 30px 0px;
+    font-size: 16px;
+    color: #444;
+}
